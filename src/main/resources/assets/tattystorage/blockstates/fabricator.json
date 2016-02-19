@@ -1,0 +1,13 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "normal": [{
+			"textures": {
+				"0": "blocks/iron_block",
+				"1": "tattystorage:blocks/top",
+				"2": "blocks/redstone_block"
+			},
+			"model": "tattystorage:fabricator"
+        }]
+    }
+}
